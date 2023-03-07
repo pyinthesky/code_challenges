@@ -1,2 +1,2 @@
 # code_challenges
-Coding challenges and their solutions
+Some coding challenges and their solutions - potentially non-optimal - solved in python
